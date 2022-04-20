@@ -1,6 +1,6 @@
 # MACHINE LEARNING PRACTICAL WORKOUT
 
-<img src="./assets/img.jpg">
+<img src="./img/img.jpg">
 
 [Image Source](https://www.udemy.com/course/deep-learning-machine-learning-practical/)
 
